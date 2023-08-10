@@ -1,0 +1,5 @@
+# [[redirects]]
+#     from = "https://cmetre.netlify.app/*"
+#     to = "https://cmetre.id/:splat"
+#     status = 301
+#     force = true
